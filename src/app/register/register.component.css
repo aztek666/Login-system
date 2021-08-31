@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+.title-login {
+    margin-top: 3em;
+    margin-bottom: 1em;
+    color: white;
+}
+
+.jumbotron {
+    background-color: #121212;
+    color: white;
+    border-bottom: 2px solid #AB3289;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+.btn {
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+}
+
+.form-control {
+    background-color: #171717;
+    border-color: #121212;
+    color: #fff;
+}
